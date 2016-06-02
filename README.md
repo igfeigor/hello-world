@@ -1,2 +1,2 @@
 # hello-world
-for training
+igor igor igor
